@@ -7,6 +7,7 @@ def calculate_and_print_ascii_hash(input_string):
 
     simple_hash = total_ascii_sum % 1000 
     print(f"Sum of ASCII values: {total_ascii_sum}")
+    print(f"Simple calculated hash: {simple_hash}")
 
 user_input = input("Enter a string: ")
 
