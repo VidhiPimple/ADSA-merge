@@ -10,5 +10,5 @@ def ascii_hash(input_string,size):
     print(f"Calculated hash: {simple_hash}")
 
 user_input = input("Enter a string: ")
-size = int(input("enter hash table size:"))
+size = int(input("Enter hash table size:"))
 ascii_hash(user_input,size)
