@@ -1,2 +1,2 @@
 # ADSA-merge
-code
+dont open your github account everywhere
